@@ -1,5 +1,5 @@
 ### 
-<h1>Hi, welcome to my profile!!</h1>[
+<h1>Hi, welcome to my profile!!</h1>
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/600px-Kotlin_Icon.png" width="50px">
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50px">
