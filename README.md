@@ -1,6 +1,6 @@
 ### 
 <h1>Hi, welcome to my profile!!</h1>
-<p>I am a Android programmer focusing in native development</p>
+<p>I am a mobile developer focusing in native development</p>
 <p align="center">
 
 <h2>Toolbox🧰</h2>
